@@ -10,7 +10,7 @@ Computer science graduate and enthusiastic software developer in training, ready
       <a href="https://github.com/haseebcheema?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/haseebcheema?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
    <a href="https://www.linkedin.com/in/haseebcheema/">
-  <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="[ath/to/linkedin-logo.png](https://brand.linkedin.com/en-us)">
+  <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="[ath/to/linkedin-logo.png](https://brand.linkedin.com/en-us)olor=55960c&style=for-the-badge&labelColor=488207&logo=star">
 </a>
 
    </p>
