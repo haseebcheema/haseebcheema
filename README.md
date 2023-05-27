@@ -9,6 +9,10 @@ Computer science graduate and enthusiastic software developer in training, ready
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/haseebcheema?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/haseebcheema?tab=repositories&sort=stargazers">
          <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/haseebcheema?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   <a href="https://www.linkedin.com/in/haseebcheema/">
+  <img alt="LinkedIn Profile" title="Connect with me on LinkedIn" src="[ath/to/linkedin-logo.png](https://brand.linkedin.com/en-us)">
+</a>
+
    </p>
 
 ---
