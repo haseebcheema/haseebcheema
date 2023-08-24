@@ -1,7 +1,7 @@
 # Haseeb Tariq
 
 **`Aspiring Software Developer | Computer Science Grad`**
-
+**`![](https://komarev.com/ghpvc/?username=haseebcheema&color=blue)`**
 Computer Science graduate and aspiring software developer 🚀 | Proficient in JavaScript and Python | Passion for backend development, data analysis, and engineering | Catch me coding or on the cricket field 🏏💻
 
    <p align="left">
@@ -45,8 +45,8 @@ Computer Science graduate and aspiring software developer 🚀 | Proficient in J
 ### Stats
 
 ![Haseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haseebcheema&show_icons=true&theme=gruvbox)
-[![GitHub Streak](https://streak-stats.demolab.com?user=haseebcheema&theme=black-ice&hide_border=true&background=0d1117)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haseebcheema&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=haseebcheema&theme=gruvbox&hide_border=true&background=0d1117)](https://git.io/streak-stats)
 
 
 #
