@@ -1,8 +1,8 @@
 # Haseeb Tariq
 
-**`Software Developer`**
+**`Aspiring Software Developer | Computer Science Grad`**
 
-Computer science graduate and enthusiastic software developer in training, ready to make an impact.
+Computer Science graduate and aspiring software developer 🚀 | Proficient in JavaScript and Python | Passion for backend development, data analysis, and engineering | Catch me coding or on the cricket field 🏏💻
 
    <p align="left">
       <a href="https://github.com/haseebcheema?tab=followers">
@@ -13,6 +13,12 @@ Computer science graduate and enthusiastic software developer in training, ready
    </p>
 
 ---
+
+### Connect
+<p align="left">
+<a href="https://instagram.com/haseebcheema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haseebcheema" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/haseebcheema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haseebcheema" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools
 
@@ -39,6 +45,9 @@ Computer science graduate and enthusiastic software developer in training, ready
 ### Stats
 
 ![Haseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haseebcheema&show_icons=true&theme=gruvbox)
+[![GitHub Streak](https://streak-stats.demolab.com?user=haseebcheema&theme=black-ice&hide_border=true&background=0d1117)](https://git.io/streak-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=haseebcheema&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 #
 
