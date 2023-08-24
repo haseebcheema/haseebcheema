@@ -1,6 +1,6 @@
 # Haseeb Tariq
-![](https://komarev.com/ghpvc/?username=haseebcheema&color=blue)
-**`Aspiring Software Developer | Computer Science Grad`**
+
+**`Aspiring Software Developer | Computer Science Grad`**   ![](https://komarev.com/ghpvc/?username=haseebcheema&color=blue)
 
 Computer Science graduate and aspiring software developer 🚀 | Proficient in JavaScript and Python | Passion for backend development, data analysis, and engineering | Catch me coding or on the cricket field 🏏💻
 
