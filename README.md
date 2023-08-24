@@ -20,9 +20,6 @@ Computer Science graduate and aspiring software developer 🚀 | Proficient in J
 <a href="https://linkedin.com/in/haseebcheema" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haseebcheema" height="30" width="40" /></a>
 </p>
 
-### Profile Views
-![](https://komarev.com/ghpvc/?username=haseebcheema&color=yellow)
-
 ### Languages and Tools
 
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
@@ -53,5 +50,8 @@ Computer Science graduate and aspiring software developer 🚀 | Proficient in J
 
 
 #
+
+### Profile Views
+![](https://komarev.com/ghpvc/?username=haseebcheema&color=yellow)
 
 [linkedin]: https://www.linkedin.com/in/haseebcheema/
