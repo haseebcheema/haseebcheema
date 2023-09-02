@@ -51,7 +51,4 @@ Computer Science graduate and aspiring software developer 🚀 | Proficient in J
 
 #
 
-### Profile Views
-![](https://komarev.com/ghpvc/?username=haseebcheema&color=yellow)
-
 [linkedin]: https://www.linkedin.com/in/haseebcheema/
