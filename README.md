@@ -2,13 +2,6 @@
 
 **`Aspiring Software Developer | Computer Science Grad`**
 
-Computer science enthusiast on a data-driven journey!
-
-Skilled in data analysis and visualization using Python and PowerBI. Proficient in web automation and data scraping with Python and also have experience in web development. Currently, exploring data engineering, analysis, and visualization. Catch me coding or on the cricket field.
-
-Let's connect and shape the future together!
-#DataEngineering #DataAnalysis #DataVisualization #SoftwareEngineering #ComputerScience
-
    <p align="left">
       <a href="https://github.com/haseebcheema?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/haseebcheema?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
