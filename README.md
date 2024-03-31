@@ -4,7 +4,7 @@
 
 #
 
-### Stats
+### STATS
 
 ![Haseeb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haseebcheema&show_icons=true&theme=gruvbox)
 
